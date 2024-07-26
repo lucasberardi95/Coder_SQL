@@ -1,0 +1,11 @@
+Para instalar y usar la base de datos 'bancolb' abrir la carpeta Scripts y ejecutarlos en el orden especificado:
+1) Abrir el script Esquema.sql y ejecutarlo para crearlo y usarlo
+2) Abrir el script Tablas.sql y ejecutarlo para crearlo y usarlo
+3) Abrir el script Insercion_de_registros.sql y ejecutarlo para crearlo y usarlo
+4) Abrir el script Vistas.sql y ejecutarlo para crearlo y usarlo
+5) Abrir el script Funciones.sql y ejecutarlo para crearlo y usarlo
+6) Abrir el script Stored_Procedures.sql y ejecutarlo para crearlo y usarlo
+7) Abrir el script Triggers.sql y ejecutarlo para crearlo y usarlo
+8) Abrir el script DCL.sql y ejecutarlo para crearlo y usarlo
+9) Abrir el script TCL.sql y ejecutarlo para crearlo y usarlo
+10) Abrir el script Backup.sql y ejecutarlo para crearlo y usarlo
